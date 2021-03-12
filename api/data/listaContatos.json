@@ -1,0 +1,28 @@
+{
+    "listaContatos": {
+      "data": [
+        {
+          "id": "1",
+          "nome": "Cliente 149501",
+          "celular": "(32)(11111111)",
+          "telefone": "(32)11111111",
+          "email": "email@email.com.br"
+        },
+        {
+          "id": "2",
+          "nome": "Cliente 252",
+          "celular": "(32)(11111111)",
+          "telefone": "(32)11111111",
+          "email": "email@email.com.br"
+         
+        },
+        {
+          "id": "3",
+          "nome": "Cliente 252",
+          "celular": "(32)(11111111)",
+          "telefone": "(32)11111111",
+          "email": "email@email.com.br"
+        }
+      ]
+    }
+  }
